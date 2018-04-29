@@ -19,13 +19,18 @@ fx updates.
 Once you've started the development server, navigate to http://localhost:8011
 to read the task description and get started.
 
-==============================
-Done test: uibhushan [Bhushan Sharma]
+
+
 ===============================
+
+Done Test: Bhushan Sharma
+
 Added one dependency in package json "Lodash js" 
 Use ES6 for developement.
 Every 30 sec table is updating, I used websocket here because Stomp is giving some module error.
 Testes on Chrome and Mac Safari.
+
+Note: After review code please let me know, I will repository.
 
 Thanks
 Bhushan Sharma
