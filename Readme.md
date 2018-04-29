@@ -30,7 +30,7 @@ Use ES6 for developement.
 Every 30 sec table is updating, I used websocket here because Stomp is giving some module error.
 Testes on Chrome and Mac Safari.
 
-Note: After review code please let me know, I will repository.
+Note: After review code please let me know, I will remove repository.
 
 Thanks
 Bhushan Sharma
